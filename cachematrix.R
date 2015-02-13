@@ -1,6 +1,8 @@
+#############################
 ## R Programming Assignment 2
 ## By Yanick Miron
 ## yan@eraid.biz
+#############################
 
 ## This function creates a special "matrix" object that can cache its inverse.
 ## Computing the inverse of a square matrix can be done with the solve function in R. 
